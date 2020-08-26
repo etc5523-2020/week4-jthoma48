@@ -5,24 +5,21 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Master of Business Analytics
+    institution: Monash University
+    year: 2021
+  - course: Bachelor of Accounting and Finance
+    institution: Purdue University
+    year: 2018
 email: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Stock Trading
+- Running
+- Philanthropy
 organizations:
-- name: Stanford University
+- name: Monash University
   url: ""
-role: Professor of Artificial Intelligence
+role: Student of Master of Business Analytics
 social:
 - icon: envelope
   icon_pack: fas
@@ -37,7 +34,7 @@ social:
   icon_pack: fab
   link: https://github.com/gcushen
 superuser: true
-title: Nelson Bighetti
+title: Justin Thomas
 user_groups:
 - Researchers
 - Visitors
